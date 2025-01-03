@@ -26,10 +26,11 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515)
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+__________
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&)]()
 
 <!--
 **Nawaf-Rayhan585/Nawaf-Rayhan585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
