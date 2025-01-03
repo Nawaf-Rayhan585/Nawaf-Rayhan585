@@ -27,8 +27,8 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutikwankhade&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
