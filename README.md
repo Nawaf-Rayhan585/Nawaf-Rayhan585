@@ -27,10 +27,8 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515)
-
-__________
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&)]()
+_____________
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&width=500px)]()
 
 <!--
 **Nawaf-Rayhan585/Nawaf-Rayhan585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
