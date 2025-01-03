@@ -36,7 +36,6 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
       <a href="(https://portfolio-n-jet.vercel.app/#home)">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     </td>
