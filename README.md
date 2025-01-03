@@ -27,21 +27,8 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&theme=dracula" />
-    </td>
-    <td align="center">
-      <a href="(https://portfolio-n-jet.vercel.app/#home)">
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-         <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width='500px'/>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    </td>
-  </tr>
-</table>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutikwankhade&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
