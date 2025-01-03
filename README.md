@@ -1,5 +1,12 @@
 ## Hi there 👋
-## I'm Nawaf, A MERN WEB Devoloper from Bangladesh!
+<h1 align='center'>I'm Nawaf, A MERN WEB Devoloper from Bangladesh!</h1>
+<h3 align='center'>Social Platforms🎯</h3>
+<br/>
+<a href="https://leetcode.com/u/Nawaf-Rayhan2" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png" alt=""></a>
+
+
+
+
 
 
 <!--
