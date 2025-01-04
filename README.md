@@ -11,7 +11,8 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 - 🔭 I’m currently working on fiverr.
 - 🌱 I’m currently learning APP DEVOLPMENT
 - 📫 How to reach me: fayaz7rg@gmail.com
-  
+- 💬 Ask me about JavaScript , ReactJS , Node, express...
+
 ### Programming Skills 🌐
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
