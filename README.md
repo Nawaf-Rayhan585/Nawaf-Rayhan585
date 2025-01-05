@@ -1,17 +1,17 @@
 ### Hi there 👋 I'm [Nawaf Rayhan](https://portfolio-n-jet.vercel.app/#home)
-> MERN Website Devoloper...
+> Experienced MERN Fullstack Website Devoloper
 
 
 <div>
  <p>
-I’m a Fullstack Developer with expertise in JavaScript, and React, creating responsive and user-friendly web applications. I also have experience with the MERN stack (MongoDB, Express, React, Node.js) and working with both MongoDB and SQL databases. While my focus is on frontend development, I’m constantly expanding my backend skills to build more complete, full-stack solutions. <b>Satisfiying Clients Is My Job</b>
+I’m a Fullstack Developer with expertise in JavaScript, and React, creating responsive and user-friendly web applications. I also have experience with the MERN stack (MongoDB, Express, React, Node.js) and working with both MongoDB and SQL databases. While my focus is on frontend development, I’m constantly expanding my backend skills to build more complete, full-stack solutions. <b>Satisfiying Clients Is My Job</b> 
 </p>
 </div>
 
 - 🔭 I’m currently working on fiverr.
 - 🌱 I’m currently learning APP DEVOLPMENT
 - 📫 How to reach me: fayaz7rg@gmail.com
-- 💬 Ask me about JavaScript , ReactJS , Node, express...
+- 💬 Ask me about JavaScript , ReactJS , Node, express , MERN...
 
 ### Programming Skills 🌐
 
@@ -27,7 +27,7 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-## 🌟 GitHub Stats
+## 🌟 GitHub Stats 📊
 
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub Stats -->
