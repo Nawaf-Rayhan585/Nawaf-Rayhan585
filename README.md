@@ -35,7 +35,7 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
   <img src="https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" width="48%" />
 
   <!-- Languages Used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact&theme=radical" width="31%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact&theme=tokyonight" width="31%" />
 </div>
 
 <!--
