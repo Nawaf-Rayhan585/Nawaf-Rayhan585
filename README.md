@@ -10,7 +10,7 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 </div>
 
 - 🔭 I’m currently working on fiverr.
-- 🌱 I’m currently learning APP DEVOLPMENT
+- 🌱 I’m currently learning App Development
 - 📫 How to reach me: fayaz7rg@gmail.com
 - 💬 Ask me about JavaScript , ReactJS , Node, express , MERN...
 
