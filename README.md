@@ -38,6 +38,11 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 
   <!-- Languages Used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact&theme=tokyonight" width="35%" />
+
+  <img src="![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)" width="35%" />
+
+
+
 </div>
 
 <!--
