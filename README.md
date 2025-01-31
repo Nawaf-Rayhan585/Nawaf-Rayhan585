@@ -20,7 +20,7 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 
 
 <div style="display: flex; justify-content:center; align-items:center;">
-  <img src="https://streak-stats.demolab.com/?user=Nawaf-Rayhan585" width="55%" theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=Nawaf-Rayhan585" width="55%"/>
 </div>
 
 <br/>
