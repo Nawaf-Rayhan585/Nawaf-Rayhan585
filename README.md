@@ -32,14 +32,14 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 
 ## 🌟 GitHub Stats 📊
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" width="55%" />
 
   <!-- Languages Used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact&theme=tokyonight" width="35%" />
 
-  <img src="https://streak-stats.demolab.com/?user=Nawaf-Rayhan585" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Nawaf-Rayhan585" width="55%" />
 
 
 
