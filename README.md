@@ -15,6 +15,18 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 - 💬 Ask me about JavaScript , ReactJS , Node, express , MERN...
 - ⚡ Fun fact: I love JavaScript
 
+<br/>
+<br/>
+
+
+<div style="display: flex; justify-content:center; align-items:center;">
+  <img src="https://streak-stats.demolab.com/?user=Nawaf-Rayhan585" width="55%" theme=tokyonight"/>
+</div>
+
+<br/>
+<br/>
+
+
 ### Programming Skills 🌐
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -33,16 +45,14 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 ## 🌟 GitHub Stats 📊
 
 <div style="display: flex;">
+
+<br/>
+ 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" width="55%" />
 
   <!-- Languages Used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact&theme=tokyonight" width="35%" />
-
-  <img src="https://streak-stats.demolab.com/?user=Nawaf-Rayhan585" width="55%" />
-
-
-
 </div>
 
 <!--
