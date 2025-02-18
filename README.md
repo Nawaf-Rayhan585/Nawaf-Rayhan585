@@ -41,7 +41,7 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <img src="http://img.shields.io/badge/-NPM-red?style=flat&logo=NPM&logoColor=white">
-<img src="http://img.shields.io/badge/-python-darkgreen?style=flat&logo=python&logoColor=white">
+<img src="http://img.shields.io/badge/-python-darkgreen?style=flat&logo=python&logoColor=green">
 
 ## 🌟 GitHub Stats 📊
 
