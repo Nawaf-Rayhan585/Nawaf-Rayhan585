@@ -11,6 +11,22 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 </p>
 </div>
 
+## Social platforms 🌐
+-----
+
+<p align="center">
+  <a href="https://leetcode.com/u/Nawaf-Rayhan2/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://nawaf585.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=FirefoxBrowser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.fiverr.com/nawaf_rayhan/make-custom-website-with-mern-stack?context_referrer=seller_page&ref_ctx_id=06e4aa2a2a5b460cb17874575876775f&pckg_id=1&pos=1&seller_online=true&imp_id=d368aeb5-9817-49ec-a146-77a396b160f2">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+</p>
+
+
 - 🔭 I’m currently working on fiverr.
 - 🌱 I’m currently learning App Development
 - 📫 How to reach me: fayaz7rg@gmail.com
