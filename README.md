@@ -27,11 +27,11 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 </p>
 
 
-- 🔭 I’m currently working on fiverr.
-- 🌱 I’m currently learning App Development
+- 🔭 I’m currently doing freelancing.
+- 🌱 I’m currently learning AI Development
 - 📫 How to reach me: fayaz7rg@gmail.com
-- 💬 Ask me about JavaScript , ReactJS , Node, express , MERN...
-- ⚡ Fun fact: I love JavaScript
+- 💬 Ask me about JavaScript , ReactJS , Node, MERN, Python, AIDev
+- ⚡ Fun fact: AI Dev is kinda Hard for me! 😖
 
 <br/>
 <br/>
