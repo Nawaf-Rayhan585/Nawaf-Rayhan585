@@ -56,7 +56,6 @@ I’m a Fullstack Developer with expertise in JavaScript, and React, creating re
 - 🌱 I’m currently learning AI Development
 - 📫 How to reach me: fayaz7rg@gmail.com
 - 💬 Ask me about JavaScript , ReactJS , Node, MERN, Python, AIDev
-- ⚡ Fun fact: AI Dev is kinda Hard for me! 😖
 
 <br/>
 <br/>
