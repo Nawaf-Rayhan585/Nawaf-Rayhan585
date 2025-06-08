@@ -1,96 +1,103 @@
+<div align="center">
    
-### Hi there 👋 I'm [Nawaf Rayhan](https://portfolio-n-jet.vercel.app/#home)  
+  ![Profile Views](https://komarev.com/ghpvc/?username=nawaf-rayhan585&color=0e75b6&style=flat)
+  
+</div>
+<br/>
 
-> Experienced MERN Fullstack Website Devoloper 🚀🔥
+# Hi, I'm Nawaf Rayhan 👋
+**Fullstack MERN Developer** • **AI Enthusiast** • **Problem Solver**
 
-![](https://komarev.com/ghpvc/?username=nawaf-rayhan585)
 
-<div>
- <p>
-I’m a Fullstack Developer with expertise in JavaScript, and React, creating responsive and user-friendly web applications. I also have experience with the MERN stack (MongoDB, Express, React, Node.js) and working with both MongoDB and SQL databases. While my focus is on frontend development, I’m constantly expanding my backend skills to build more complete, full-stack solutions. <b>Satisfiying Clients Is My Job</b> 
-</p>
+
+## 🚀 About Me
+
+I'm a passionate Fullstack Developer specializing in the **MERN stack**, with a focus on creating responsive, user-friendly web applications. Currently expanding my expertise into **AI Development** while delivering high-quality solutions that satisfy clients' needs.
+
+- 🔭 **Currently:** Freelancing & Building Amazing Web Apps
+- 🌱 **Learning:** AI Development & Advanced Backend Technologies  
+- 💼 **Focus:** Client Satisfaction & Clean Code
+- 📧 **Contact:** fayaz7rg@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
-## Social platforms 🌐
------
+---
 
-<p align="center">
-  <a href="https://leetcode.com/u/Nawaf-Rayhan2/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://nawaf585.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=FirefoxBrowser&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.fiverr.com/nawaf_rayhan/make-custom-website-with-mern-stack?context_referrer=seller_page&ref_ctx_id=06e4aa2a2a5b460cb17874575876775f&pckg_id=1&pos=1&seller_online=true&imp_id=d368aeb5-9817-49ec-a146-77a396b160f2">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-</p>
-<br>
-<br>
+## 🌐 Connect With Me
 
------
-
-## Programming Skills 🌐
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img src="http://img.shields.io/badge/-NPM-red?style=flat&logo=NPM&logoColor=white">
-<img src="http://img.shields.io/badge/-python-blue?style=flat&logo=python&logoColor=green">
-
-
-<br>
-<br>
-
-
-
-- 🔭 I’m currently doing freelancing.
-- 🌱 I’m currently learning AI Development
-- 📫 How to reach me: fayaz7rg@gmail.com
-- 💬 Ask me about JavaScript , ReactJS , Node, MERN, Python, AIDev
-
-<br/>
-<br/>
-
-
-<div style="display: flex; justify-content:center; align-items:center;">
-  <img src="https://streak-stats.demolab.com/?user=Nawaf-Rayhan585" width="55%"/>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-n-jet.vercel.app/#home)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nawaf-Rayhan2/)
+  [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nawaf_rayhan/make-custom-website-with-mern-stack)
+  
 </div>
 
-<br/>
-<br/>
+---
 
+## 📊 GitHub Analytics
 
-
-
-## 🌟 GitHub Stats 📊
-
-<div style="display: flex;">
-
-<br/>
- 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" width="55%" />
-
-  <!-- Languages Used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact&theme=tokyonight" width="35%" />
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact&langs_count=8&theme=tokyonight"/>
+  
 </div>
 
-<!--
-**Nawaf-Rayhan585/Nawaf-Rayhan585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Nawaf-Rayhan585&theme=tokyonight)
+  
+</div>
 
-Here are some ideas to get you started:
+---
 
+## 🎯 Quick Stats
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
--->
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nawaf-Rayhan585&theme=tokyonight)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **💬 Ask me about:** `JavaScript` • `React` • `Node.js` • `MERN Stack` • `Python` • `AI Development`
+  
+  ⭐️ From [Nawaf-Rayhan585](https://github.com/Nawaf-Rayhan585)
+  
+</div>
