@@ -6,7 +6,7 @@
 <br/>
 
 # Hi, I'm Nawaf Rayhan 👋
-**Fullstack MERN Developer** • **AI Enthusiast** • **Problem Solver**
+### **Fullstack MERN Developer** • **AI | ML Dev** • **Problem Solver**
 
 
 
@@ -76,11 +76,6 @@ I'm a passionate Fullstack Developer specializing in the **MERN stack**, with a 
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Nawaf-Rayhan585&theme=tokyonight)
-  
-</div>
 
 ---
 
