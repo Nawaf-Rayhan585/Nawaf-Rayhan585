@@ -136,7 +136,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🎯 Project Beta</h3>
+<h3 align="center">🎯 AI/ML Coach Agent</h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" alt="Project Beta"/>
 <br><br>
@@ -144,7 +144,7 @@
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="#" target="_blank">
+<a href="[#](https://github.com/Nawaf-Rayhan585/AI_Coach_Assistant_ML/tree/main)" target="_blank">
 <img src="https://img.shields.io/badge/Source%20Code-1c1c1c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
