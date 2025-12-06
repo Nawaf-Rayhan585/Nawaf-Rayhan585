@@ -94,7 +94,10 @@
     </tr>
   </table>
 </div>
+<br/>
 
+### Other Achivements:
+• Coding Marathon Event In High School: Ranked 3rd 🥉
 
 <br/>
 
