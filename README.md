@@ -143,7 +143,7 @@
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="[#](https://github.com/Nawaf-Rayhan585/MERN-Blog-project-Frontend)" target="_blank">
+<a href="https://github.com/Nawaf-Rayhan585/MERN-Blog-project-Frontend" target="_blank">
 <img src="https://img.shields.io/badge/Source%20Code-1c1c1c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -158,7 +158,7 @@
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
-<a href="[#](https://github.com/Nawaf-Rayhan585/AI_Coach_Assistant_ML/tree/main)" target="_blank">
+<a href="https://github.com/Nawaf-Rayhan585/AI_Coach_Assistant_ML/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/Source%20Code-1c1c1c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
