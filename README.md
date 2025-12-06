@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Nawaf Rayhan ✨
+# Nawaf Rayhan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+MERN+Developer;AI+%7C+ML+Enthusiast;Problem+Solver+%26+Innovator;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Fullstack+MERN+Developer;Learning+Exellence+In+AI+%7C+ML;Problem+Solver+%26+Innovator;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -19,19 +19,20 @@
   
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1NXJ5cmhlN25jcXE3dnlibDg2NHRrcjFtOTlsaWduN2lybHd3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif">
 
-### I'm a passionate Fullstack Developer specializing in the MERN stack, with a focus on creating responsive, user-friendly web applications. Currently expanding my expertise into AI Development while delivering high-quality solutions that satisfy clients' needs.
+#### I’m a full-stack developer who loves working with the MERN stack and building clean, responsive, and user-friendly web applications. Over time, I’ve gained solid experience across both frontend and backend development — from crafting smooth interfaces to designing APIs, managing databases, and understanding how everything connects behind the scenes.
+#### Recently, I’ve been diving deeper into Artificial Intelligence and Machine Learning. I enjoy exploring how AI can make apps smarter and more helpful, whether it’s through chatbots, recommendation features, or computer vision projects. I’m constantly learning new tools, experimenting with models, and figuring out how to bring real intelligence into everyday applications.
 
 <br>
 
- <h4/>🟪 Currently: Freelancing & Building Amazing Web Apps
+ <h5/>• Currently: Freelancing & Building Amazing Web Apps
 <br>
- <h4/>🟪 Learning: AI Development & Advanced Backend Technologies
+ <h5/>• Learning: AI Development & Advanced Backend Technologies
 <br>
- <h4/>🟪 Focus: Client Satisfaction & Clean Code
+ <h5/>• Focus: Client Satisfaction & Clean Code
 <br>
- <h4/>🟪 Contact: fayaz7rg@gmail.com
+ <h5/>• Contact: fayaz7rg@gmail.com
 </div>
 
 
@@ -40,28 +41,24 @@
 
 </div>
 
-<br>
-<br>
 <br>
 
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-### 🌐 Frontend Mastery
+### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
 </p>
 
-### ⚙️ Backend Power
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 </p>
 
-### 🗄️ Database Excellence
+### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
@@ -71,9 +68,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,aws,npm" />
 </p>
 
-### 🤖 AI & ML
+### 🤖 AI/ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv," />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn" />
 </p>
 
 </div>
@@ -82,19 +79,33 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+  
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-<details>
-<summary><b>📈 Detailed Statistics</b></summary>
-
-<br>
+  
+## 🏆 My Certifications
 
 <div align="center">
+  <table>
+    <tr>
+      <td><img src="https://image2url.com/images/1765034450792-5c7ede5f-8a2e-4ab2-9d92-e3367a5a1b9e.png" width="400" alt="Certificate 1"/></td>
+      <td><img src="https://image2url.com/images/1765034629822-bd62b289-c130-4557-b5f8-630c50156820.png" width="400" alt="Certificate 2"/></td>
+      <td><img src="https://image2url.com/images/1765034900357-3b13f8be-2cc6-4aa8-a683-d6e1e4c5359d.png" width="400" alt="Certificate 3"/></td>
+    </tr>
+  </table>
+</div>
+
+
+<br/>
+
+
+
+## 📊 GitHub Analytics
+
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawaf-Rayhan585&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Rayhan585&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-</div>
+</div> -->
 
 <br>
 
@@ -121,15 +132,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🚀 Project Alpha</h3>
+<h3 align="center">🚀 Fullstack MERN Bloging Website</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" alt="Project Alpha"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU3dmZhMG05M3Z6eXNoZXU5MXU4ZzJmdG9qdmh3aGc1eXFqanJpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fcU03QTYVVcJs1jKIa/giphy.gif" width="200" alt="Project Alpha"/>
 <br><br>
 <p>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="#" target="_blank">
+<a href="[#](https://github.com/Nawaf-Rayhan585/MERN-Blog-project-Frontend)" target="_blank">
 <img src="https://img.shields.io/badge/Source%20Code-1c1c1c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -138,11 +149,11 @@
 <td width="50%">
 <h3 align="center">🎯 AI/ML Coach Agent</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" alt="Project Beta"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt3Zmdpb28wMml0dGkzdHUyNmN3dGZoa3ZiMzc5MXU3dWwxN2N0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SlKBbQNNZNfcPRWYW7/giphy.gif" width="225" alt="Project Beta"/>
 <br><br>
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
 <a href="[#](https://github.com/Nawaf-Rayhan585/AI_Coach_Assistant_ML/tree/main)" target="_blank">
 <img src="https://img.shields.io/badge/Source%20Code-1c1c1c?style=for-the-badge&logo=github&logoColor=white"/>
