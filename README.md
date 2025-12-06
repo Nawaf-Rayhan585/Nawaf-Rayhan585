@@ -196,14 +196,6 @@
 
 </div>
 
-
-## 📄 Download My Resume
-
-<div align="center">
-  
-[![Download CV](https://img.shields.io/badge/📥_Download_My_CV-Click_Here-brightgreen?style=for-the-badge)](Nawaf Rayhan_CV_Ostad_CV_Builder_2025-07-30.pdf)
-
-</div>
 ---
 
 <div align="center">
