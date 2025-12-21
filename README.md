@@ -182,6 +182,9 @@
 <a href="https://leetcode.com/u/Nawaf-Rayhan2/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
+<a href="https://linkedin.com/in/nawaf-rayhan/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://www.fiverr.com/nawaf_rayhan/make-custom-website-with-mern-stack" target="_blank">
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
 </a>
