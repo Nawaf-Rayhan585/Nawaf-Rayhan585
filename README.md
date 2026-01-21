@@ -95,7 +95,8 @@
   </table>
 </div>
 <br/>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="nawaf-rayhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/nawaf-rayhan?trk=profile-badge">Nawaf Rayhan</a></div>
+        <br/>      
 ### Other Achivements:
 • Coding Marathon Event In High School: Ranked 3rd 🥉
 
