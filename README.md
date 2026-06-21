@@ -21,16 +21,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo1NXJ5cmhlN25jcXE3dnlibDg2NHRrcjFtOTlsaWduN2lybHd3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif">
 
-#### I’m a full-stack developer who loves working with the MERN stack and building clean, responsive, and user-friendly web applications. Over time, I’ve gained solid experience across both frontend and backend development — from crafting smooth interfaces to designing APIs, managing databases, and understanding how everything connects behind the scenes.
-#### Recently, I’ve been diving deeper into Artificial Intelligence and Machine Learning. I enjoy exploring how AI can make apps smarter and more helpful, whether it’s through chatbots, recommendation features, or computer vision projects. I’m constantly learning new tools, experimenting with models, and figuring out how to bring real intelligence into everyday applications.
+#### I'm a Full-Stack Developer passionate about building intelligent, scalable, and user-friendly applications. With strong experience in the MERN stack (MongoDB, Express.js, React, and Node.js), I develop modern web solutions that combine clean design, responsive interfaces, and efficient backend systems.
+#### My primary focus is now Artificial Intelligence and Machine Learning, where I work on developing AI-powered applications, computer vision systems, automation tools, and intelligent software solutions. I enjoy building projects with Python, YOLO, deep learning models, and modern AI frameworks to solve real-world problems through data and automation.
+#### I'm constantly exploring new AI technologies, experimenting with machine learning models, and integrating intelligent features into web applications. My goal is to bridge the gap between AI and modern software development by creating solutions that are both powerful and practical.
 
 <br>
 
- <h5/>• Currently: Freelancing & Building Amazing Web Apps
+ <h5/>• Currently: Building AI-powered applications, automation tools, and modern web experiences.
 <br>
- <h5/>• Learning: AI Development & Advanced Backend Technologies
+ <h5/>• Working With: Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development.
 <br>
- <h5/>• Focus: Client Satisfaction & Clean Code
+ <h5/>• Focus: Solving real-world problems through technology while writing clean, reliable, and scalable code.
 <br>
  <h5/>• Contact: fayaz7rg@gmail.com
 </div>
@@ -66,6 +67,7 @@
 ### 🔧 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,aws,npm" />
+  <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=n8n" />
 </p>
 
 ### 🤖 AI/ML
@@ -185,6 +187,9 @@
 </a>
 <a href="https://linkedin.com/in/nawaf-rayhan/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=61567500516238" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://www.fiverr.com/nawaf_rayhan/make-custom-website-with-mern-stack" target="_blank">
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
