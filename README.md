@@ -90,6 +90,7 @@
 
 <img width="1200" height="500" alt="Untitled design (9)" src="https://github.com/user-attachments/assets/5e4493f8-ef6a-4c63-a94d-fce08b36bae1" />
 
+<br/>
 
   
 ## 🏆 My Certifications
@@ -150,9 +151,6 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU3dmZhMG05M3Z6eXNoZXU5MXU4ZzJmdG9qdmh3aGc1eXFqanJpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fcU03QTYVVcJs1jKIa/giphy.gif" width="200" alt="Project Alpha"/>
 <br><br>
 <p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 <a href="https://github.com/Nawaf-Rayhan585/MERN-Blog-project-Frontend" target="_blank">
 <img src="https://img.shields.io/badge/Source%20Code-1c1c1c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -160,15 +158,12 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🎯 AI/ML Coach Agent</h3>
+<h3 align="center">🎯 AI/ML (RAG) Document Assistant</h3>
 <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt3Zmdpb28wMml0dGkzdHUyNmN3dGZoa3ZiMzc5MXU3dWwxN2N0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SlKBbQNNZNfcPRWYW7/giphy.gif" width="225" alt="Project Beta"/>
 <br><br>
 <p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
-<a href="https://github.com/Nawaf-Rayhan585/AI_Coach_Assistant_ML/tree/main" target="_blank">
+<a href="https://github.com/Nawaf-Rayhan585/AI-Doc-Q-A-RAG" target="_blank">
 <img src="https://img.shields.io/badge/Source%20Code-1c1c1c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
