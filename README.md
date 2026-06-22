@@ -89,7 +89,9 @@
 ### @nawaf-rayhan
 
 <img width="1200" height="500" alt="Untitled design (9)" src="https://github.com/user-attachments/assets/5e4493f8-ef6a-4c63-a94d-fce08b36bae1" />
-
+<a href="https://www.facebook.com/profile.php?id=61567500516238" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 <br/>
 
   
@@ -186,9 +188,6 @@
 </a>
 <a href="https://leetcode.com/u/Nawaf-Rayhan2/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://linkedin.com/in/nawaf-rayhan/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=61567500516238" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
