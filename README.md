@@ -7,6 +7,7 @@
 <br/>
 <br/>
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nawaf-rayhan585&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Nawaf-Rayhan585?style=for-the-badge&color=00d9ff&labelColor=1c1c1c)](https://github.com/Nawaf-Rayhan585)
 [![GitHub stars](https://img.shields.io/github/stars/Nawaf-Rayhan585?style=for-the-badge&color=00d9ff&labelColor=1c1c1c)](https://github.com/Nawaf-Rayhan585)
@@ -83,6 +84,12 @@
 
   
 <br/>
+
+## I am on facebook 🥳
+### @nawaf-rayhan
+
+<img width="1200" height="500" alt="Untitled design (9)" src="https://github.com/user-attachments/assets/5e4493f8-ef6a-4c63-a94d-fce08b36bae1" />
+
 
   
 ## 🏆 My Certifications
